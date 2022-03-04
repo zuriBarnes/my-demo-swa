@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+/* planet-z */
+.slideheader {
+  background: #30363d;
+  color: #fff;
+}
+.slideheader {
+  display: flex;
+  justify-content: center;
+  color: #fff;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  background: #30363d;
+  padding: 20px;
+}
+.slideheader a {
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+}
